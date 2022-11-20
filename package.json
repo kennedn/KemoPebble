@@ -23,8 +23,13 @@
       "media": [
         {
           "type": "raw",
-          "name": "LEO",
-          "file": "flat_leo_gif.png"
+          "name": "WOLF",
+          "file": "apngs/wolf.png"
+        },
+        {
+          "type": "raw",
+          "name": "WOLF_SMALL",
+          "file": "apngs/wolf_small.png"
         },
         {
           "type": "bitmap",
